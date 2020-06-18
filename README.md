@@ -1,2 +1,2 @@
 # Scraping-Price
-Website Price Scraping.
+Website Price Scraping with Selenium WebDriver.
